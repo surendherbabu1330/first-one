@@ -1,0 +1,10 @@
+git new file
+git clone (copy link paste) 
+git status
+git add (filename)
+git commit -m "update"
+------------------------------------------------------------
+clear your old saved GitHub credentials:
+
+Windows:
+open Control Panel → Credential Manager → Windows Credentials → remove any github.com entries.
