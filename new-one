@@ -10,4 +10,4 @@ step4:git push origin main
 
 git pull => its pull the changes github to vs code
 cd .. =>back to the folder
-git init 
+we want to change a folder to git repository we will use => git init 
