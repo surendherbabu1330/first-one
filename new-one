@@ -5,3 +5,9 @@ step2: git add new-one(filename) / git add . (This is add all file)
 step3: git commit -m "update"(inside double quatation means commit message)
 step3:git status(check the status its my personal checkup)
 step4:git push origin main
+
+-----------------------------
+
+git pull => its pull the changes github to vs code
+cd .. =>back to the folder
+git init 
