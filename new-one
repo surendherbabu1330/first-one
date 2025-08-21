@@ -12,4 +12,8 @@ step4:git push origin main => in thid command push the file github file and main
 
 git pull => its pull the changes github to vs code
 cd .. =>back to the folder
-we want to change a folder to git repository we will use => git init 
+step 1: git init => we want to change a folder to git repository we will use 
+step 2: git add => add all file
+step 3: git commit -m "update" => commit the update
+step 4: 
+
